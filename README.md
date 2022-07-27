@@ -11,6 +11,8 @@ Applying different deep learning techniques like MLP,Simple RNN,LSTM,GRU on sola
 ![alt text](https://github.com/Soumyapro/Solar-Cells-Output-Prediction/blob/main/download.png?raw=true)
 
 
+![alt text](https://github.com/Soumyapro/Solar-Cells-Output-Prediction/blob/main/download.jfif?raw=true)
+
 DATA DESCRIPTION
 
 The GermanSolarFarm data set contains 21 photovoltaic facilities in Germany. Their installed nominal power ranges between 100kW and 8500kW. The PV facilities range from PV panels installed on rooftops to fully fledged solar farms. They are distributed throughout Germany as shown in the attached image. For each facility historical NWP data and the produced power in a three-hour resolution for 990 days are available. All-time series in the data set, except the measured power output, are normalized between 0 and 1 using the min max normalization. The target variable, the measured power output, is normalized using the nominal output capacity of the corresponding PV facility. Therefore, allow the comparison of the forecasting performance without taking the size of the PV facilities into account.
