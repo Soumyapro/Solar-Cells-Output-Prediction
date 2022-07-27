@@ -7,7 +7,8 @@ Solar Power forecasting for a Solar Power System is a very active research field
 POSSIBLE SOLUTION
 
 Applying different deep learning techniques like MLP,Simple RNN,LSTM,GRU on solar power system to predict a hour/day ahead solar power generation based on Certain weather condition of the location of solar power system.
-![alt text](https://github.com/Soumyapro/Solar-Cells-Output-Prediction/blob/main/download.png?raw=true)
+
+                              ![alt text](https://github.com/Soumyapro/Solar-Cells-Output-Prediction/blob/main/download.png?raw=true)
 
 DATA DESCRIPTION
 
